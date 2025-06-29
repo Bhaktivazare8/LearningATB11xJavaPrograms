@@ -1,6 +1,6 @@
-package ex_02_Java_Basic_Part2;
+package ex_067_Ternery_Operator;
 
-public class Lab014_Variable {
+public class Lab067_NestedTernery{
 
     public static void main(String[]args)
     {
@@ -10,6 +10,5 @@ public class Lab014_Variable {
 
         int max = x>y?(x>z?x:z):y>z?y:z;
         System.out.print(max);
-
     }
 }
