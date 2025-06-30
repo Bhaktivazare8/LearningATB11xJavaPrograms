@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34996821-23d6-4f27-a150-8b725f9eab73" name="Changes" comment="29th June">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task_002_In_De_Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tasks/Task_003_In_Op_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Basic_Part2/Lab014_Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_067_Ternery_Operator/Lab067_NestedTernery.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +49,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Application.HelloWorld.executor": "Run",
     "Application.Lab014_Variable.executor": "Run",
+    "Application.Task_002_In_De_Operator.executor": "Run",
+    "Application.Task_003_In_Op_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/614486764/IdeaProjects/LearningATB11xJavaPrograms",
@@ -80,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1751215790717</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="29th June">
+      <option name="closed" value="true" />
+      <created>1751216191255</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1751216191255</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
